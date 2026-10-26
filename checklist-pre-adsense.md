@@ -9,7 +9,7 @@
 - [x] Canonical URLs, meta descriptions, Open Graph, and sitemap included
 - [x] Ad placements are inactive; no ad code present
 - [x] No seller ID has been invented for ads.txt
-- [ ] Replace `.example` domains with the final domain
+- [x] Replace `.example` domains in canonical URLs, sitemap, robots, and structured data
 - [ ] Add the official email and connect the contact form
 - [ ] Complete a human horticultural and editorial review of every article
 - [ ] Validate HTML, links, accessibility, and structured data on the final domain
