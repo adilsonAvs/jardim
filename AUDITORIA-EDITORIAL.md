@@ -11,11 +11,15 @@
 - Added distinct, practical detail to 10 articles that fell below the requested 900-word target after duplicate cleanup.
 - Replaced generic references with closer university-extension sources for fertilizer, pothos, peace lily, ZZ plant, water-stress diagnosis, yellow leaves, and container-houseplant watering.
 - Kept experience claims honest: no personal testing, first-hand results, or original observations are claimed. Advice is framed as general guidance and linked to outside references.
-- Updated each article JSON-LD `dateModified` and the matching sitemap `lastmod` to 2026-10-27.
+- Replaced generic bylines and author boxes across all 40 articles with Adilson V. Santos, publication/update dates, and links to About/Contact; the author profile and both institutional pages show the supplied author email.
+- Changed article structured data to `Article` with a `Person` author and supplied email; added canonical-matched `og:url`, owned social images, and aligned the canonical host and sitemap/feed host to `https://cozygreennook.com`.
+- Preserved article slugs and original publication dates; the existing, previously revised article content remains in place. Updated article JSON-LD `dateModified` and the matching sitemap `lastmod` to 2026-10-27.
+- Shortened article title tags to 60 characters or fewer and descriptions to 155 characters or fewer.
+- Added three visible, article-specific FAQs per article and matching `FAQPage` JSON-LD; questions and answers are based on each article and do not claim personal experience.
 
 ## Validation
 
-- All 40 article editorial bodies now contain 900–1,300 words: **minimum 935, maximum 1,144**. Counts exclude the author box, source note, and related-article cards.
+- All 40 article editorial bodies now contain 900–1,300 words: **minimum 1,085, maximum 1,282**. Counts include the visible FAQs and exclude the author box, source note, and related-article cards.
 - No exact repeated substantive paragraphs or repeated section headings remain within the 40 article bodies.
 - Checked 56 local HTML pages: internal links, anchors, image references, CSS, and JavaScript targets resolved with **0 missing local targets**.
 - This static HTML project has no package/build configuration or build script, so no build was available to run.

@@ -125,3 +125,6 @@ header > nav a:hover { background: var(--sage); }
 @media (prefers-reduced-motion: reduce) {
   header > nav a { transition: none; }
 }
+
+.article .authorbox{display:block;margin:2.5rem 0 1rem;padding:1rem 1.2rem;border:1px solid var(--line);border-radius:14px;background:#fffefa;color:var(--muted);font-size:.94rem}.article .authorbox b{display:block;color:var(--deep)}.article .authorbox p{margin:.45rem 0 0}
+.authorbox{display:grid;grid-template-columns:auto 1fr;gap:1rem;align-items:start;padding:1rem 1.2rem;border:1px solid var(--line);border-radius:14px;background:#fffefa}.authorbox .avatar{display:grid;place-items:center;width:3rem;height:3rem;border-radius:50%;background:var(--sage);color:var(--deep)}
