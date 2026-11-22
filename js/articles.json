@@ -1,282 +1,289 @@
 [
   {
     "title": "How to Choose Indoor Plants for Low-Light Rooms",
-    "slug": "plantas-pouca-luz",
+    "slug": "low-light-houseplants",
     "category": "Indoor Plants",
-    "url": "/artigos/plantas-pouca-luz.html",
+    "url": "/articles/low-light-houseplants/",
     "summary": "“Low light” means limited indirect light, not darkness."
   },
   {
     "title": "How to Water Houseplants Without Waterlogging the Soil",
-    "slug": "regar-sem-encharcar",
+    "slug": "water-houseplants-without-waterlogging",
     "category": "Indoor Plants",
-    "url": "/artigos/regar-sem-encharcar.html",
+    "url": "/articles/water-houseplants-without-waterlogging/",
     "summary": "Thorough watering and good drainage work together: the mix should be moistened, while excess water can leave the pot."
   },
   {
     "title": "How to Diagnose and Fix Yellow Leaves on Houseplants",
-    "slug": "folhas-amarelas-plantas-casa",
+    "slug": "yellow-houseplant-leaves",
     "category": "Plant Care",
-    "url": "/artigos/folhas-amarelas-plantas-casa.html",
+    "url": "/articles/yellow-houseplant-leaves/",
     "summary": "Yellow leaves are a symptom, not a diagnosis."
   },
   {
     "title": "How to Choose Pots and Potting Mix for Houseplants",
-    "slug": "vasos-substratos-plantas-interior",
+    "slug": "houseplant-pots-and-potting-mix",
     "category": "Container Gardening",
-    "url": "/artigos/vasos-substratos-plantas-interior.html",
+    "url": "/articles/houseplant-pots-and-potting-mix/",
     "summary": "Pot size, drainage, and mix affect how quickly houseplant roots receive air and water."
   },
   {
     "title": "Pothos Care: Light, Watering, and Pruning",
-    "slug": "cuidar-jiboia-casa",
+    "slug": "pothos-care",
     "category": "Indoor Plants",
-    "url": "/artigos/cuidar-jiboia-casa.html",
+    "url": "/articles/pothos-care/",
     "summary": "Pothos tolerates a range of indoor conditions, yet its growth still reflects the light and watering it receives."
   },
   {
-    "title": "How to Care for a ZZ Plant and Avoid Overwatering",
-    "slug": "cuidar-zamioculca",
+    "title": "Monstera Deliciosa Care: Light, Water & Growth Indoors",
+    "slug": "monstera-deliciosa-care",
     "category": "Indoor Plants",
-    "url": "/artigos/cuidar-zamioculca.html",
+    "url": "/articles/monstera-deliciosa-care/",
+    "summary": "Learn how to set up Monstera deliciosa light, watering, support, propagation, and pet-safety care indoors."
+  },
+  {
+    "title": "How to Care for a ZZ Plant and Avoid Overwatering",
+    "slug": "zz-plant-care",
+    "category": "Indoor Plants",
+    "url": "/articles/zz-plant-care/",
     "summary": "ZZ plants store water in thick underground rhizomes, so frequent watering can do more harm than a brief dry spell."
   },
   {
     "title": "Peace Lily Care: How to Tell When It Needs Water",
-    "slug": "cuidar-lirio-da-paz",
+    "slug": "peace-lily-care",
     "category": "Indoor Plants",
-    "url": "/artigos/cuidar-lirio-da-paz.html",
+    "url": "/articles/peace-lily-care/",
     "summary": "A peace lily’s droop can signal thirst, but watering by appearance alone can keep its roots too wet."
   },
   {
     "title": "How to Clean Houseplant Leaves Without Damaging Them",
-    "slug": "limpar-folhas-plantas-interior",
+    "slug": "clean-houseplant-leaves",
     "category": "Indoor Plants",
-    "url": "/artigos/limpar-folhas-plantas-interior.html",
+    "url": "/articles/clean-houseplant-leaves/",
     "summary": "Dust can block the view of pests and dull glossy foliage, but some leaves are delicate."
   },
   {
     "title": "How to Start a Beginner Container Garden",
-    "slug": "montar-horta-vasos-iniciantes",
+    "slug": "beginner-container-garden",
     "category": "Container Gardening",
-    "url": "/artigos/montar-horta-vasos-iniciantes.html",
+    "url": "/articles/beginner-container-garden/",
     "summary": "Plan a first container garden around the light, drainage, and time available."
   },
   {
     "title": "How to Grow Basil Indoors in a Pot",
-    "slug": "cultivar-manjericao-vaso",
+    "slug": "basil-in-pots",
     "category": "Herbs & Edible Plants",
-    "url": "/artigos/cultivar-manjericao-vaso.html",
+    "url": "/articles/basil-in-pots/",
     "summary": "Basil needs warmth, strong light, and regular harvesting to stay productive in a pot."
   },
   {
     "title": "How to Grow Green Onions in a Pot and Keep Harvesting",
-    "slug": "plantar-cebolinha-vaso",
+    "slug": "green-onions-in-pots",
     "category": "Herbs & Edible Plants",
-    "url": "/artigos/plantar-cebolinha-vaso.html",
+    "url": "/articles/green-onions-in-pots/",
     "summary": "Green onions are practical container crops, but planting from seed and regrowing grocery-store bases are different methods."
   },
   {
     "title": "How to Grow Lettuce in Pots or Planters",
-    "slug": "cultivar-alface-vasos",
+    "slug": "lettuce-in-containers",
     "category": "Vegetable Gardening",
-    "url": "/artigos/cultivar-alface-vasos.html",
+    "url": "/articles/lettuce-in-containers/",
     "summary": "Lettuce can grow well in containers when the variety, pot depth, light, and season work together."
   },
   {
     "title": "How to Grow Cherry Tomatoes in a Pot: Space, Support, and Care",
-    "slug": "plantar-tomate-cereja-vaso",
+    "slug": "cherry-tomatoes-in-pots",
     "category": "Vegetable Gardening",
-    "url": "/artigos/plantar-tomate-cereja-vaso.html",
+    "url": "/articles/cherry-tomatoes-in-pots/",
     "summary": "Cherry tomatoes need strong sun, a roomy container, steady moisture, and support as they grow."
   },
   {
     "title": "How to Choose Containers for an Apartment Garden",
-    "slug": "vasos-horta-apartamento",
+    "slug": "apartment-garden-containers",
     "category": "Container Gardening",
-    "url": "/artigos/vasos-horta-apartamento.html",
+    "url": "/articles/apartment-garden-containers/",
     "summary": "Apartment vegetable containers must fit the crop’s mature roots and the space’s load and drainage limits."
   },
   {
     "title": "How to Make Potting Mix for Container Vegetables",
-    "slug": "substrato-hortalicas-vasos",
+    "slug": "container-vegetable-potting-mix",
     "category": "Container Gardening",
-    "url": "/artigos/substrato-hortalicas-vasos.html",
+    "url": "/articles/container-vegetable-potting-mix/",
     "summary": "Container vegetables need a potting medium that balances air, water retention, and drainage."
   },
   {
     "title": "How to Water a Home Vegetable Garden During Hot Weather",
-    "slug": "rega-horta-dias-quentes",
+    "slug": "watering-garden-in-hot-weather",
     "category": "Vegetable Gardening",
-    "url": "/artigos/rega-horta-dias-quentes.html",
+    "url": "/articles/watering-garden-in-hot-weather/",
     "summary": "Hot weather increases water loss, but crops and containers dry at different rates."
   },
   {
     "title": "How to Tell How Much Light a Plant Needs",
-    "slug": "quanta-luz-planta-precisa",
+    "slug": "plant-light-needs",
     "category": "Plant Care",
-    "url": "/artigos/quanta-luz-planta-precisa.html",
+    "url": "/articles/plant-light-needs/",
     "summary": "Light needs vary by species, season, and distance from a window."
   },
   {
     "title": "How to Choose the Right Spot for Each Houseplant",
-    "slug": "escolher-lugar-planta-casa",
+    "slug": "houseplant-placement",
     "category": "Indoor Plants",
-    "url": "/artigos/escolher-lugar-planta-casa.html",
+    "url": "/articles/houseplant-placement/",
     "summary": "The best spot depends on the plant’s light needs and the room’s real conditions."
   },
   {
     "title": "When and How to Fertilize Potted Plants",
-    "slug": "adubar-plantas-vasos",
+    "slug": "fertilize-potted-plants",
     "category": "Plant Care",
-    "url": "/artigos/adubar-plantas-vasos.html",
+    "url": "/articles/fertilize-potted-plants/",
     "summary": "Fertilizer supports active growth, but it cannot fix poor light, damaged roots, or a waterlogged pot."
   },
   {
     "title": "How to Repot a Plant Without Damaging Its Roots",
-    "slug": "transplantar-planta-sem-danificar-raizes",
+    "slug": "repot-without-root-damage",
     "category": "Plant Care",
-    "url": "/artigos/transplantar-planta-sem-danificar-raizes.html",
+    "url": "/articles/repot-without-root-damage/",
     "summary": "Repotting is useful when roots outgrow the container or the mix no longer drains well."
   },
   {
     "title": "How to Prune Houseplants Safely",
-    "slug": "podar-plantas-casa",
+    "slug": "prune-houseplants",
     "category": "Plant Care",
-    "url": "/artigos/podar-plantas-casa.html",
+    "url": "/articles/prune-houseplants/",
     "summary": "Pruning can remove damaged growth and shape a houseplant, but unnecessary or heavy cuts add stress."
   },
   {
     "title": "How to Propagate Plants from Cuttings",
-    "slug": "mudas-por-estaquia",
+    "slug": "propagate-plants-from-cuttings",
     "category": "Plant Care",
-    "url": "/artigos/mudas-por-estaquia.html",
+    "url": "/articles/propagate-plants-from-cuttings/",
     "summary": "Cuttings succeed when the plant species, stem maturity, and rooting conditions are right."
   },
   {
     "title": "How to Spot Overwatering and Underwatering",
-    "slug": "excesso-falta-agua-plantas",
+    "slug": "overwatering-vs-underwatering",
     "category": "Plant Care",
-    "url": "/artigos/excesso-falta-agua-plantas.html",
+    "url": "/articles/overwatering-vs-underwatering/",
     "summary": "Overwatering and underwatering can produce similar symptoms."
   },
   {
     "title": "How to Choose and Use Basic Home Gardening Tools",
-    "slug": "ferramentas-jardinagem-casa",
+    "slug": "home-gardening-tools",
     "category": "Plant Care",
-    "url": "/artigos/ferramentas-jardinagem-casa.html",
+    "url": "/articles/home-gardening-tools/",
     "summary": "A small home garden rarely needs a large tool collection."
   },
   {
     "title": "How to Identify and Manage Mealybugs on Plants",
-    "slug": "identificar-cochonilhas",
+    "slug": "identify-mealybugs",
     "category": "Plant Care",
-    "url": "/artigos/identificar-cochonilhas.html",
+    "url": "/articles/identify-mealybugs/",
     "summary": "Mealybugs often hide in leaf joints and along stems, where their white waxy coating can resemble lint."
   },
   {
     "title": "What to Do When You Find Aphids on Plants",
-    "slug": "pulgoes-nas-plantas",
+    "slug": "aphids-on-plants",
     "category": "Plant Care",
-    "url": "/artigos/pulgoes-nas-plantas.html",
+    "url": "/articles/aphids-on-plants/",
     "summary": "Aphids gather on tender growth and can curl leaves or leave sticky honeydew."
   },
   {
     "title": "How to Identify Spider Mites on Houseplants",
-    "slug": "acaros-plantas-interior",
+    "slug": "spider-mites-houseplants",
     "category": "Plant Care",
-    "url": "/artigos/acaros-plantas-interior.html",
+    "url": "/articles/spider-mites-houseplants/",
     "summary": "Spider mites are tiny and easy to miss."
   },
   {
     "title": "How to Prevent Mold and Fungus on Potting Mix",
-    "slug": "fungos-mofo-substrato-vasos",
+    "slug": "mold-on-potting-mix",
     "category": "Plant Care",
-    "url": "/artigos/fungos-mofo-substrato-vasos.html",
+    "url": "/articles/mold-on-potting-mix/",
     "summary": "A pale surface growth on potting mix is not always a plant disease."
   },
   {
     "title": "Why Houseplant Leaf Tips Turn Brown",
-    "slug": "pontas-secas-folhas",
+    "slug": "brown-houseplant-tips",
     "category": "Plant Care",
-    "url": "/artigos/pontas-secas-folhas.html",
+    "url": "/articles/brown-houseplant-tips/",
     "summary": "Brown leaf tips can follow dry air, inconsistent moisture, salt buildup, or root problems."
   },
   {
     "title": "How to Diagnose a Wilting Plant",
-    "slug": "recuperar-planta-murcha",
+    "slug": "wilting-plants",
     "category": "Plant Care",
-    "url": "/artigos/recuperar-planta-murcha.html",
+    "url": "/articles/wilting-plants/",
     "summary": "Wilting can result from dry mix, waterlogged roots, heat, or transplant stress."
   },
   {
     "title": "How to Spot Root Rot in Potted Plants",
-    "slug": "raizes-apodrecidas-vaso",
+    "slug": "root-rot-in-pots",
     "category": "Plant Care",
-    "url": "/artigos/raizes-apodrecidas-vaso.html",
+    "url": "/articles/root-rot-in-pots/",
     "summary": "Root rot is associated with persistently wet conditions, but yellow leaves alone do not confirm it."
   },
   {
     "title": "How to Prevent Pests in a Home Vegetable Garden",
-    "slug": "prevenir-pragas-horta-domestica",
+    "slug": "vegetable-garden-pests",
     "category": "Vegetable Gardening",
-    "url": "/artigos/prevenir-pragas-horta-domestica.html",
+    "url": "/articles/vegetable-garden-pests/",
     "summary": "Prevention in a home vegetable garden starts with regular inspection and healthy growing conditions, not routine pesticide use."
   },
   {
     "title": "Best Plants for Small Apartments",
-    "slug": "plantas-apartamentos-pequenos",
+    "slug": "plants-for-small-apartments",
     "category": "Indoor Plants",
-    "url": "/artigos/plantas-apartamentos-pequenos.html",
+    "url": "/articles/plants-for-small-apartments/",
     "summary": "Small apartments can support healthy plants when choices fit the available light, floor space, and care routine."
   },
   {
     "title": "How to Choose Pet-Safe Plants for Homes with Cats and Dogs",
-    "slug": "plantas-seguras-gatos-caes",
+    "slug": "pet-safe-houseplants",
     "category": "Plant Care",
-    "url": "/artigos/plantas-seguras-gatos-caes.html",
+    "url": "/articles/pet-safe-houseplants/",
     "summary": "Plant safety depends on the exact species and the amount eaten."
   },
   {
     "title": "Best Plants for a Sunny Balcony",
-    "slug": "plantas-varanda-sol-forte",
+    "slug": "sunny-balcony-plants",
     "category": "Container Gardening",
-    "url": "/artigos/plantas-varanda-sol-forte.html",
+    "url": "/articles/sunny-balcony-plants/",
     "summary": "A sunny balcony can become hotter and drier than a garden bed because walls and paving reflect heat."
   },
   {
     "title": "How to Choose Plants for a Shady Balcony",
-    "slug": "plantas-varanda-sombra",
+    "slug": "shady-balcony-plants",
     "category": "Container Gardening",
-    "url": "/artigos/plantas-varanda-sombra.html",
+    "url": "/articles/shady-balcony-plants/",
     "summary": "Balcony shade varies from bright indirect light to deep shade."
   },
   {
     "title": "How to Create a Small Herb Garden in Your Kitchen",
-    "slug": "plantas-cozinha-pequena",
+    "slug": "kitchen-herb-garden",
     "category": "Herbs & Edible Plants",
-    "url": "/artigos/plantas-cozinha-pequena.html",
+    "url": "/articles/kitchen-herb-garden/",
     "summary": "A kitchen herb garden depends on light, ventilation, and convenient watering."
   },
   {
     "title": "How to Arrange Balcony Plants Without Blocking the Walkway",
-    "slug": "organizar-plantas-varanda",
+    "slug": "arrange-balcony-plants",
     "category": "Container Gardening",
-    "url": "/artigos/organizar-plantas-varanda.html",
+    "url": "/articles/arrange-balcony-plants/",
     "summary": "A balcony layout needs to leave a clear route for people while accounting for sunlight, wind, weight, and water runoff."
   },
   {
     "title": "Easy-Care Plants for Beginners",
-    "slug": "plantas-resistentes-iniciantes",
+    "slug": "easy-care-houseplants",
     "category": "Indoor Plants",
-    "url": "/artigos/plantas-resistentes-iniciantes.html",
+    "url": "/articles/easy-care-houseplants/",
     "summary": "Easy-care plants still need the right light, watering, and temperature."
   },
   {
     "title": "How to Build a Simple Vertical Garden at Home",
-    "slug": "jardim-vertical-simples-casa",
+    "slug": "vertical-garden-at-home",
     "category": "Container Gardening",
-    "url": "/artigos/jardim-vertical-simples-casa.html",
+    "url": "/articles/vertical-garden-at-home/",
     "summary": "A vertical garden must support the weight of wet containers and remain easy to water and maintain."
   }
 ]

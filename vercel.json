@@ -1,10 +1,564 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": false,
+  "trailingSlash": true,
   "redirects": [
     {
+      "source": "/artigos/acaros-plantas-interior.html",
+      "destination": "https://www.cozygreennook.com/articles/spider-mites-houseplants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/adubar-plantas-vasos.html",
+      "destination": "https://www.cozygreennook.com/articles/fertilize-potted-plants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/cuidar-jiboia-casa.html",
+      "destination": "https://www.cozygreennook.com/articles/pothos-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/cuidar-lirio-da-paz.html",
+      "destination": "https://www.cozygreennook.com/articles/peace-lily-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/cuidar-zamioculca.html",
+      "destination": "https://www.cozygreennook.com/articles/zz-plant-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/cultivar-alface-vasos.html",
+      "destination": "https://www.cozygreennook.com/articles/lettuce-in-containers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/cultivar-manjericao-vaso.html",
+      "destination": "https://www.cozygreennook.com/articles/basil-in-pots/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/escolher-lugar-planta-casa.html",
+      "destination": "https://www.cozygreennook.com/articles/houseplant-placement/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/excesso-falta-agua-plantas.html",
+      "destination": "https://www.cozygreennook.com/articles/overwatering-vs-underwatering/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/ferramentas-jardinagem-casa.html",
+      "destination": "https://www.cozygreennook.com/articles/home-gardening-tools/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/folhas-amarelas-plantas-casa.html",
+      "destination": "https://www.cozygreennook.com/articles/yellow-houseplant-leaves/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/fungos-mofo-substrato-vasos.html",
+      "destination": "https://www.cozygreennook.com/articles/mold-on-potting-mix/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/identificar-cochonilhas.html",
+      "destination": "https://www.cozygreennook.com/articles/identify-mealybugs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/jardim-vertical-simples-casa.html",
+      "destination": "https://www.cozygreennook.com/articles/vertical-garden-at-home/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/limpar-folhas-plantas-interior.html",
+      "destination": "https://www.cozygreennook.com/articles/clean-houseplant-leaves/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/monstera-deliciosa-care.html",
+      "destination": "https://www.cozygreennook.com/articles/monstera-deliciosa-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/montar-horta-vasos-iniciantes.html",
+      "destination": "https://www.cozygreennook.com/articles/beginner-container-garden/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/mudas-por-estaquia.html",
+      "destination": "https://www.cozygreennook.com/articles/propagate-plants-from-cuttings/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/organizar-plantas-varanda.html",
+      "destination": "https://www.cozygreennook.com/articles/arrange-balcony-plants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/plantar-cebolinha-vaso.html",
+      "destination": "https://www.cozygreennook.com/articles/green-onions-in-pots/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/plantar-tomate-cereja-vaso.html",
+      "destination": "https://www.cozygreennook.com/articles/cherry-tomatoes-in-pots/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/plantas-apartamentos-pequenos.html",
+      "destination": "https://www.cozygreennook.com/articles/plants-for-small-apartments/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/plantas-cozinha-pequena.html",
+      "destination": "https://www.cozygreennook.com/articles/kitchen-herb-garden/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/plantas-pouca-luz.html",
+      "destination": "https://www.cozygreennook.com/articles/low-light-houseplants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/plantas-resistentes-iniciantes.html",
+      "destination": "https://www.cozygreennook.com/articles/easy-care-houseplants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/plantas-seguras-gatos-caes.html",
+      "destination": "https://www.cozygreennook.com/articles/pet-safe-houseplants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/plantas-varanda-sol-forte.html",
+      "destination": "https://www.cozygreennook.com/articles/sunny-balcony-plants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/plantas-varanda-sombra.html",
+      "destination": "https://www.cozygreennook.com/articles/shady-balcony-plants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/podar-plantas-casa.html",
+      "destination": "https://www.cozygreennook.com/articles/prune-houseplants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/pontas-secas-folhas.html",
+      "destination": "https://www.cozygreennook.com/articles/brown-houseplant-tips/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/prevenir-pragas-horta-domestica.html",
+      "destination": "https://www.cozygreennook.com/articles/vegetable-garden-pests/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/pulgoes-nas-plantas.html",
+      "destination": "https://www.cozygreennook.com/articles/aphids-on-plants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/quanta-luz-planta-precisa.html",
+      "destination": "https://www.cozygreennook.com/articles/plant-light-needs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/raizes-apodrecidas-vaso.html",
+      "destination": "https://www.cozygreennook.com/articles/root-rot-in-pots/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/recuperar-planta-murcha.html",
+      "destination": "https://www.cozygreennook.com/articles/wilting-plants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/rega-horta-dias-quentes.html",
+      "destination": "https://www.cozygreennook.com/articles/watering-garden-in-hot-weather/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/regar-sem-encharcar.html",
+      "destination": "https://www.cozygreennook.com/articles/water-houseplants-without-waterlogging/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/substrato-hortalicas-vasos.html",
+      "destination": "https://www.cozygreennook.com/articles/container-vegetable-potting-mix/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/transplantar-planta-sem-danificar-raizes.html",
+      "destination": "https://www.cozygreennook.com/articles/repot-without-root-damage/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/vasos-horta-apartamento.html",
+      "destination": "https://www.cozygreennook.com/articles/apartment-garden-containers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/artigos/vasos-substratos-plantas-interior.html",
+      "destination": "https://www.cozygreennook.com/articles/houseplant-pots-and-potting-mix/",
+      "statusCode": 301
+    },
+    {
+      "source": "/categorias/plantas-de-interior.html",
+      "destination": "https://www.cozygreennook.com/categories/indoor-plants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/categorias/horta-em-casa.html",
+      "destination": "https://www.cozygreennook.com/categories/vegetable-gardening/",
+      "statusCode": 301
+    },
+    {
+      "source": "/categorias/cuidados-e-cultivo.html",
+      "destination": "https://www.cozygreennook.com/categories/plant-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/categorias/plantas-para-cada-espaco.html",
+      "destination": "https://www.cozygreennook.com/categories/container-gardening/",
+      "statusCode": 301
+    },
+    {
+      "source": "/categorias/pragas-e-problemas.html",
+      "destination": "https://www.cozygreennook.com/categories/herbs-edible-plants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/sobre.html",
+      "destination": "https://www.cozygreennook.com/about/",
+      "statusCode": 301
+    },
+    {
+      "source": "/contato.html",
+      "destination": "https://www.cozygreennook.com/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/politica-de-privacidade.html",
+      "destination": "https://www.cozygreennook.com/privacy-policy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/politica-de-cookies.html",
+      "destination": "https://www.cozygreennook.com/cookie-policy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/termos-de-uso.html",
+      "destination": "https://www.cozygreennook.com/terms-of-use/",
+      "statusCode": 301
+    },
+    {
+      "source": "/autor.html",
+      "destination": "https://www.cozygreennook.com/editorial-team/",
+      "statusCode": 301
+    },
+    {
+      "source": "/busca.html",
+      "destination": "https://www.cozygreennook.com/search/",
+      "statusCode": 301
+    },
+    {
       "source": "/index.html",
-      "destination": "/",
-      "permanent": true
+      "destination": "https://www.cozygreennook.com/",
+      "statusCode": 301
+    },
+    {
+      "source": "/categories/indoor-plants/index.html",
+      "destination": "https://www.cozygreennook.com/categories/indoor-plants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/categories/vegetable-gardening/index.html",
+      "destination": "https://www.cozygreennook.com/categories/vegetable-gardening/",
+      "statusCode": 301
+    },
+    {
+      "source": "/categories/plant-care/index.html",
+      "destination": "https://www.cozygreennook.com/categories/plant-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/categories/container-gardening/index.html",
+      "destination": "https://www.cozygreennook.com/categories/container-gardening/",
+      "statusCode": 301
+    },
+    {
+      "source": "/categories/herbs-edible-plants/index.html",
+      "destination": "https://www.cozygreennook.com/categories/herbs-edible-plants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/spider-mites-houseplants/index.html",
+      "destination": "https://www.cozygreennook.com/articles/spider-mites-houseplants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/fertilize-potted-plants/index.html",
+      "destination": "https://www.cozygreennook.com/articles/fertilize-potted-plants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/pothos-care/index.html",
+      "destination": "https://www.cozygreennook.com/articles/pothos-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/peace-lily-care/index.html",
+      "destination": "https://www.cozygreennook.com/articles/peace-lily-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/zz-plant-care/index.html",
+      "destination": "https://www.cozygreennook.com/articles/zz-plant-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/lettuce-in-containers/index.html",
+      "destination": "https://www.cozygreennook.com/articles/lettuce-in-containers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/basil-in-pots/index.html",
+      "destination": "https://www.cozygreennook.com/articles/basil-in-pots/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/houseplant-placement/index.html",
+      "destination": "https://www.cozygreennook.com/articles/houseplant-placement/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/overwatering-vs-underwatering/index.html",
+      "destination": "https://www.cozygreennook.com/articles/overwatering-vs-underwatering/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/home-gardening-tools/index.html",
+      "destination": "https://www.cozygreennook.com/articles/home-gardening-tools/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/yellow-houseplant-leaves/index.html",
+      "destination": "https://www.cozygreennook.com/articles/yellow-houseplant-leaves/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/mold-on-potting-mix/index.html",
+      "destination": "https://www.cozygreennook.com/articles/mold-on-potting-mix/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/identify-mealybugs/index.html",
+      "destination": "https://www.cozygreennook.com/articles/identify-mealybugs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/vertical-garden-at-home/index.html",
+      "destination": "https://www.cozygreennook.com/articles/vertical-garden-at-home/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/clean-houseplant-leaves/index.html",
+      "destination": "https://www.cozygreennook.com/articles/clean-houseplant-leaves/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/monstera-deliciosa-care/index.html",
+      "destination": "https://www.cozygreennook.com/articles/monstera-deliciosa-care/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/beginner-container-garden/index.html",
+      "destination": "https://www.cozygreennook.com/articles/beginner-container-garden/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/propagate-plants-from-cuttings/index.html",
+      "destination": "https://www.cozygreennook.com/articles/propagate-plants-from-cuttings/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/arrange-balcony-plants/index.html",
+      "destination": "https://www.cozygreennook.com/articles/arrange-balcony-plants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/green-onions-in-pots/index.html",
+      "destination": "https://www.cozygreennook.com/articles/green-onions-in-pots/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/cherry-tomatoes-in-pots/index.html",
+      "destination": "https://www.cozygreennook.com/articles/cherry-tomatoes-in-pots/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/plants-for-small-apartments/index.html",
+      "destination": "https://www.cozygreennook.com/articles/plants-for-small-apartments/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/kitchen-herb-garden/index.html",
+      "destination": "https://www.cozygreennook.com/articles/kitchen-herb-garden/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/low-light-houseplants/index.html",
+      "destination": "https://www.cozygreennook.com/articles/low-light-houseplants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/easy-care-houseplants/index.html",
+      "destination": "https://www.cozygreennook.com/articles/easy-care-houseplants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/pet-safe-houseplants/index.html",
+      "destination": "https://www.cozygreennook.com/articles/pet-safe-houseplants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/sunny-balcony-plants/index.html",
+      "destination": "https://www.cozygreennook.com/articles/sunny-balcony-plants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/shady-balcony-plants/index.html",
+      "destination": "https://www.cozygreennook.com/articles/shady-balcony-plants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/prune-houseplants/index.html",
+      "destination": "https://www.cozygreennook.com/articles/prune-houseplants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/brown-houseplant-tips/index.html",
+      "destination": "https://www.cozygreennook.com/articles/brown-houseplant-tips/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/vegetable-garden-pests/index.html",
+      "destination": "https://www.cozygreennook.com/articles/vegetable-garden-pests/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/aphids-on-plants/index.html",
+      "destination": "https://www.cozygreennook.com/articles/aphids-on-plants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/plant-light-needs/index.html",
+      "destination": "https://www.cozygreennook.com/articles/plant-light-needs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/root-rot-in-pots/index.html",
+      "destination": "https://www.cozygreennook.com/articles/root-rot-in-pots/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/wilting-plants/index.html",
+      "destination": "https://www.cozygreennook.com/articles/wilting-plants/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/watering-garden-in-hot-weather/index.html",
+      "destination": "https://www.cozygreennook.com/articles/watering-garden-in-hot-weather/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/water-houseplants-without-waterlogging/index.html",
+      "destination": "https://www.cozygreennook.com/articles/water-houseplants-without-waterlogging/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/container-vegetable-potting-mix/index.html",
+      "destination": "https://www.cozygreennook.com/articles/container-vegetable-potting-mix/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/repot-without-root-damage/index.html",
+      "destination": "https://www.cozygreennook.com/articles/repot-without-root-damage/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/apartment-garden-containers/index.html",
+      "destination": "https://www.cozygreennook.com/articles/apartment-garden-containers/",
+      "statusCode": 301
+    },
+    {
+      "source": "/articles/houseplant-pots-and-potting-mix/index.html",
+      "destination": "https://www.cozygreennook.com/articles/houseplant-pots-and-potting-mix/",
+      "statusCode": 301
+    },
+    {
+      "source": "/about/index.html",
+      "destination": "https://www.cozygreennook.com/about/",
+      "statusCode": 301
+    },
+    {
+      "source": "/contact/index.html",
+      "destination": "https://www.cozygreennook.com/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/privacy-policy/index.html",
+      "destination": "https://www.cozygreennook.com/privacy-policy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/cookie-policy/index.html",
+      "destination": "https://www.cozygreennook.com/cookie-policy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/terms-of-use/index.html",
+      "destination": "https://www.cozygreennook.com/terms-of-use/",
+      "statusCode": 301
+    },
+    {
+      "source": "/editorial-team/index.html",
+      "destination": "https://www.cozygreennook.com/editorial-team/",
+      "statusCode": 301
+    },
+    {
+      "source": "/guides/index.html",
+      "destination": "https://www.cozygreennook.com/guides/",
+      "statusCode": 301
+    },
+    {
+      "source": "/disclaimer/index.html",
+      "destination": "https://www.cozygreennook.com/disclaimer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/search/index.html",
+      "destination": "https://www.cozygreennook.com/search/",
+      "statusCode": 301
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "key": "host",
+          "value": "cozygreennook.com"
+        }
+      ],
+      "destination": "https://www.cozygreennook.com/:path*",
+      "statusCode": 301
     }
   ]
 }
