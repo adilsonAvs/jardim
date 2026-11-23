@@ -131,3 +131,11 @@ header > nav a:hover { background: var(--sage); }
 
 /* Guide archive and resource sections */
 .guide-group{margin:2.5rem 0 3.5rem}.guide-group>h2,.guide-group>h3{margin:0 0 1rem}.category-jump{display:flex;flex-wrap:wrap;gap:.65rem;margin:1.5rem 0 2.25rem}.category-jump a,.resource-links a{display:inline-flex;align-items:center;min-height:44px;padding:.55rem .9rem;border:1px solid var(--line);border-radius:999px;background:#fffefa;text-decoration:none}.guide-group[id]{scroll-margin-top:6rem}.resource-highlight{margin:3rem 0;padding:clamp(1.4rem,4vw,2.5rem);border:1px solid var(--line);border-radius:22px;background:#fffefa}.resource-links{display:flex;flex-wrap:wrap;gap:.8rem}.text-link{white-space:nowrap}.archive-link{margin-top:1.5rem}
+/* Cookie preference controls */
+.cookie{width:min(460px,calc(100vw - 2rem));max-height:calc(100vh - 2rem);overflow:auto;padding:1rem 1.1rem}
+.cookie[hidden]{display:none}
+.cookie-actions{display:flex;flex-wrap:wrap;gap:.6rem;margin-top:.85rem}
+.cookie-actions button{min-height:44px;margin:0}
+.cookie-actions button:not(.button){background:#fff;color:var(--deep);border:1px solid var(--line);border-radius:9px;padding:.7rem .9rem;font:inherit;font-weight:600;cursor:pointer}
+.cookie-actions button:focus-visible,.cookie a:focus-visible{outline:3px solid #88a979;outline-offset:2px}
+@media(max-width:480px){.cookie{left:1rem;right:1rem;bottom:1rem;width:auto}.cookie-actions{display:grid;grid-template-columns:1fr}.cookie-actions button{width:100%}}
