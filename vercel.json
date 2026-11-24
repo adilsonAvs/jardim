@@ -553,7 +553,6 @@
       "has": [
         {
           "type": "host",
-          "key": "host",
           "value": "cozygreennook.com"
         }
       ],
